@@ -11,7 +11,7 @@ This project is a full-stack application that:
     Displays the data in a beautiful React frontend with "Book Now" buttons linking to event pages.
 
 📁 Project Structure
-
+```bash
 project-root/
 │
 ├── backend/
@@ -37,6 +37,7 @@ project-root/
 ├── package.json             # Dependencies for React
 │
 └── requirements.txt         # Dependencies for Python backend
+```
 
 🚀 Getting Started
 1️⃣ Clone the repository
